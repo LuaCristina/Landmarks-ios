@@ -14,6 +14,7 @@
 		D36A7ED32B71E4B900B62F90 /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36A7ED22B71E4B900B62F90 /* LandmarksTests.swift */; };
 		D36A7EDD2B71E4B900B62F90 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36A7EDC2B71E4B900B62F90 /* LandmarksUITests.swift */; };
 		D36A7EDF2B71E4B900B62F90 /* LandmarksUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36A7EDE2B71E4B900B62F90 /* LandmarksUITestsLaunchTests.swift */; };
+		D36A7EEE2B7674A400B62F90 /* ParkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36A7EED2B7674A400B62F90 /* ParkView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		D36A7ED82B71E4B900B62F90 /* LandmarksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D36A7EDC2B71E4B900B62F90 /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		D36A7EDE2B71E4B900B62F90 /* LandmarksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D36A7EED2B7674A400B62F90 /* ParkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				D36A7EC32B71E4B500B62F90 /* ContentView.swift */,
 				D36A7EC52B71E4B900B62F90 /* Assets.xcassets */,
 				D36A7EC72B71E4B900B62F90 /* Preview Content */,
+				D36A7EED2B7674A400B62F90 /* ParkView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D36A7EC42B71E4B500B62F90 /* ContentView.swift in Sources */,
+				D36A7EEE2B7674A400B62F90 /* ParkView.swift in Sources */,
 				D36A7EC22B71E4B500B62F90 /* LandmarksApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
